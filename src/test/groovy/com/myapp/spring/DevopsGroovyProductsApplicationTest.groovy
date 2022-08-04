@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue
 import io.restassured.RestAssured
 import io.restassured.response.Response
 
-class DevopsGroovyProductsApplicationTests {
+class DevopsGroovyProductsApplication {
 	
 	static API_ROOT = 'http://localhost:9090/products'
 	static productId = 1
