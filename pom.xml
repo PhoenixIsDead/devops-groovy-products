@@ -46,7 +46,7 @@
 
 <scm>
 
-<connection>scm:git:https://github.com/PhoenixIsDead/devops-groovy-products.git</connection>
+<connection>scm:git:git@github.com/PhoenixIsDead/devops-groovy-products.git</connection>
 
 <developerConnection>scm:git:git@github.com:/devops-groovy-products.git</developerConnection>
 
