@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>devops-groovy-products</groupId>
 	<artifactId>devops-groovy-products</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>devops-groovy-products</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -52,7 +52,7 @@
 
 <url>git@github.com:/spring-boot-devops.git</url>
 
-<tag>SNAPSHOT</tag>
+<tag>v1.0.0</tag>
 
 </scm>
 	
