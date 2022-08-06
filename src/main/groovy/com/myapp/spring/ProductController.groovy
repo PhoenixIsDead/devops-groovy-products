@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController
 
 
 // http://IP:PORT/products
-//owner: Vishal Umbarkar
+//owner: Vishal Umbarkar.
 
 @RestController
 @RequestMapping("products")
